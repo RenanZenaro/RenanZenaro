@@ -1,7 +1,5 @@
 ## Olá, eu sou Renan Zenaro
 
-Tenho 23 anos, estou estudando para virar um desenvolvedor web com foco em front-end, em paralelo trabalho com a música também, deixarei minhas redes sociais para darem uma olhada
-
 <div align="left">
   <a href="https://github.com/RenanZenaro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanZenaro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
