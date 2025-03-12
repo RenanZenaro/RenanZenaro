@@ -1,4 +1,6 @@
-## Olá, eu sou Renan Zenaro, Músico e Futuro Desenvolvedor Web
+## Olá, eu sou Renan Zenaro
+
+Tenho 23 anos, estou estudando para virar um desenvolvedor web com foco em front-end, em paralelo trabalho com a música também, deixarei minhas redes sociais para darem uma olhada
 
 <div align="left">
   <a href="https://github.com/RenanZenaro">
