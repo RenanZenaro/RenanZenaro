@@ -17,9 +17,10 @@
   ##
   
 <div>
+  <a href="https://youtube.com/@renanzenaro7324" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/renan_zenaro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="https://facebook.com/renan.z.docarmo/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
 <!--   <a href="https://linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  -->
   
-  ![Snake animation](https://github.com/RenanZenaro/RenanZenaro/blob/output/github-contribution-grid-snake.svg)
+   <!-- ![Snake animation](https://github.com/RenanZenaro/RenanZenaro/blob/output/github-contribution-grid-snake.svg) -->
 </div>
