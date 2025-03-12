@@ -1,4 +1,4 @@
-## Olá, eu sou Renan Zenaro
+## Olá, eu sou Renan Zenaro, Músico e Futuro Desenvolvedor Web
 
 <div align="left">
   <a href="https://github.com/RenanZenaro">
