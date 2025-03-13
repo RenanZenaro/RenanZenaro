@@ -1,4 +1,4 @@
-## Olá, eu sou Renan Zenaro
+## Olá, sou Renan Zenaro
 
 <div align="left">
   <a href="https://github.com/RenanZenaro">
